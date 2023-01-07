@@ -1,3 +1,3 @@
 #!/bin/bash
 
-grepaddr.py "$@"
+/usr/local/opencode/grepaddr/grepaddr.py "$@"
